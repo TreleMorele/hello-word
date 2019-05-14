@@ -1,1 +1,6 @@
-Hello Word
+<title>Hello Word</title>
+<head>
+
+</head>
+<body>
+</body>
